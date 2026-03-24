@@ -1,0 +1,8 @@
+# Archivos temporales
+*.tmp
+
+# Configuración local
+config.local.md
+
+# Logs
+*.log
